@@ -47,6 +47,4 @@ I followed the modular approach for easy to view and understand.
 
   Please read Report.pdf(documentation) for more information.
 
-  
-
 -Himanshu Singh
