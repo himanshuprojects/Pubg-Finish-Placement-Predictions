@@ -4,7 +4,7 @@ Be sure that you are in **gh-pages** branch.
 
 # Machine Learning Engineer Nanodegree
 
-## Capstone Proposal
+## Capstone Proect
 
 Himanshu Singh
 Jan 25th, 2019
